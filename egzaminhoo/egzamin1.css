@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.p1{
+    width: 100%;
+    background-color: red;
+    padding: 10px 0;
+}
+.home{
+    color: black;
+    background-color: white;
+    padding: 10px 5px;
+    text-align: center;
+    font-size: large;
+   
+}
+.link{
+    color: white;
+    background-color: red;
+    padding: 14px 24px;
+    text-align: center;
+    font-size: large;
+  
+}
+.p2{
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 120px 16px;
+    margin-top: 2px;
+}
+.home:hover{
+    background-color: white;
+    color: black;
+}
+.link:hover{
+    background-color: white;
+    color: black;
+}
+.p3{
+    font-size: 150px;
+    margin: 20px;
+}
+.p4{
+    font-size: 20px;
+}
+.p5{
+    background-color: black;
+    color: white;
+    padding: 14px 28px;
+    font-size: 20px;
+    text-align: center;
+}
+.p5:hover{
+    background-color: white;
+    color: black ;
+}
+.p6{
+    width: 635px;
+    margin-left: 100px;
+    margin-top: 64px;
+    margin-bottom: 65px;
+}
+.p7{
+    
+    font-weight: 300;
+    font-size: 30px;
+    color: black;
+    margin-bottom: 35px;
+}
+.p8{
+    
+    font-size:20px;
+    color: black;
+    margin: 0 0 30px 0;
+}
+.p9{
+
+    font-size: 15px;
+    color: grey;
+}
+.surat1{
+    width: 200px;
+    margin-left: 800px;
+    margin-top: -350px;
+}
+.surat2{
+    background-color: white;
+    width: 100%;
+}
+.surat3{
+    width: 200px;
+    margin-left: 50px;
+}
+.p10{
+    width: 635px;
+    margin-left: 600px;
+    margin-top: -200px;
+}
+.p11{
+    margin-top: 100px;
+    background-color:grey ;
+    color: white;
+    height: 200px;
+    text-align: center;
+    padding-top: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
+.p12 {
+    color: black;
+    margin-left: 40%; 
+     margin-top: 100px;
+}
+.p12:hover{
+color: #494242;
+}

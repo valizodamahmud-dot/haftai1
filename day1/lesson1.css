@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.title{
+    color: white;
+    background-color: rgb(18, 207, 191);
+    padding: 15px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+.div{
+    margin: 10px;
+    width: 32%;
+    box-shadow: 1px 1px 5px rgb(101, 96, 96);
+}
+img{
+    width:  100%;
+}
+    .textp{
+        padding: 15px;
+        font-size: 25px;
+
+    }
+.div2, .div5{
+        margin-left: 34%; 
+        margin-top: -360px;
+}
+.div3, .div6{
+    margin-left: 67%;
+    margin-top: -360px;
+}
